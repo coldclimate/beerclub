@@ -12,5 +12,27 @@
 		"style": "IPA",
 		"abv": 6.7
 		}]
+	},
+{
+	"date" : "2015-08-20",
+	"beers" : [{
+		"name":"Wild Boar",
+		"url":"http://www.buxtonbrewery.co.uk/our-beers/buxton-wild-boar-5-7-abv/",
+		"style":"IPA",
+		"abv":5.7,
+		"brewary": "Buxton Brewary"
+		},{
+		"name":"13 Guns",
+		"url":"http://www.ratebeer.com/beer/thwaites-13-guns/181880/",
+		"style":"American IPA",
+		"abv":5.5,
+		"brewary": "Crafty Dan"
+		},{
+		"name":"Holy Cowbell",
+		"url":"http://www.ratebeer.com/beer/beavertown-holy-cowbell-india-stout/270727/",
+		"style":"Indian Stout",
+		"abv":5.6,
+		"brewary": "Beavertown"
+		}]
 	}
 	]
