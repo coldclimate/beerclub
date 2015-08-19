@@ -1,0 +1,16 @@
+[{
+	"date" : "2015-08-07",
+	"beers" : [{
+		"name":"Cocoa Psycho",
+		"url":"https://www.brewdog.com/item/191/BrewDog/Cocoa-Psycho.html",
+		"style":"Russian Imperial Stout",
+		"abv":10,
+		"brewary": "BrewDog"
+		},{
+		"name":"Elvis Juice",
+		"url":"http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
+		"style": "IPA",
+		"abv": 6.7
+		}]
+	}
+	]
