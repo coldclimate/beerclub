@@ -5,7 +5,7 @@
 		"url":"https://www.brewdog.com/item/191/BrewDog/Cocoa-Psycho.html",
 		"style":"Russian Imperial Stout",
 		"abv":10,
-		"brewary": "BrewDog"
+		"brewery": "BrewDog"
 		},{
 		"name":"Elvis Juice",
 		"url":"http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
@@ -20,19 +20,19 @@
 		"url":"http://www.buxtonbrewery.co.uk/our-beers/buxton-wild-boar-5-7-abv/",
 		"style":"IPA",
 		"abv":5.7,
-		"brewary": "Buxton Brewary"
+		"brewery": "Buxton Brewery"
 		},{
 		"name":"13 Guns",
 		"url":"http://www.ratebeer.com/beer/thwaites-13-guns/181880/",
 		"style":"American IPA",
 		"abv":5.5,
-		"brewary": "Crafty Dan"
+		"brewery": "Crafty Dan"
 		},{
 		"name":"Holy Cowbell",
 		"url":"http://www.ratebeer.com/beer/beavertown-holy-cowbell-india-stout/270727/",
 		"style":"Indian Stout",
 		"abv":5.6,
-		"brewary": "Beavertown"
+		"brewery": "Beavertown"
 		}]
 	}
 	]
