@@ -34,5 +34,27 @@
 		"abv":5.6,
 		"brewery": "Beavertown"
 		}]
+	},
+	{
+	"date" : "2015-09-10",
+	"beers" : [{
+		"name":"Sweet Chariot",
+		"url":"http://www.ratebeer.com/beer/marstons-sweet-chariot-cask/44800/",
+		"style":"English bitter",
+		"abv":4.2,
+		"brewery": "Marstone's"
+		},{
+		"name":"Hitachino Nest JCA",
+		"url":"http://www.kodawari.cc/?en_home/products/hitachino-nest-beer.html",
+		"style":"Japanese Classic Ale",
+		"abv":7.0,
+		"brewery": "Hitachino"
+		},{
+		"name":"Heart & Soul",
+		"url":"http://www.vocationbrewery.com/products/heart-soul",
+		"style":"Session IPA",
+		"abv":4.5,
+		"brewery": "Vocation Brewery"
+		}]
 	}
 	]
