@@ -6,13 +6,13 @@
 		"style":"Russian Imperial Stout",
 		"abv":10,
 		"brewery": "BrewDog",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":5}]
 		},{
 		"name":"Elvis Juice",
 		"url":"http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
 		"style": "IPA",
 		"abv": 6.7,
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":4}]
 		}]
 	},
 {
@@ -23,21 +23,21 @@
 		"style":"IPA",
 		"abv":5.7,
 		"brewery": "Buxton Brewery",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":3}]
 		},{
 		"name":"13 Guns",
 		"url":"http://www.ratebeer.com/beer/thwaites-13-guns/181880/",
 		"style":"American IPA",
 		"abv":5.5,
 		"brewery": "Crafty Dan",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":4}]
 		},{
 		"name":"Holy Cowbell",
 		"url":"http://www.ratebeer.com/beer/beavertown-holy-cowbell-india-stout/270727/",
 		"style":"Indian Stout",
 		"abv":5.6,
 		"brewery": "Beavertown",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":4}]
 		}]
 	},
 	{
@@ -55,14 +55,14 @@
 		"style":"Japanese Classic Ale",
 		"abv":7.0,
 		"brewery": "Hitachino",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":3}]
 		},{
 		"name":"Heart & Soul",
 		"url":"http://www.vocationbrewery.com/products/heart-soul",
 		"style":"Session IPA",
 		"abv":4.5,
 		"brewery": "Vocation Brewery",
-		"ratings":[]
+		"ratings":[{"who":"coldclimate", "rating":4}]
 		}]
 	}
 	]
