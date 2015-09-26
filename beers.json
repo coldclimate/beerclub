@@ -5,12 +5,14 @@
 		"url":"https://www.brewdog.com/item/191/BrewDog/Cocoa-Psycho.html",
 		"style":"Russian Imperial Stout",
 		"abv":10,
-		"brewery": "BrewDog"
+		"brewery": "BrewDog",
+		"ratings":[]
 		},{
 		"name":"Elvis Juice",
 		"url":"http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
 		"style": "IPA",
-		"abv": 6.7
+		"abv": 6.7,
+		"ratings":[]
 		}]
 	},
 {
@@ -20,19 +22,22 @@
 		"url":"http://www.buxtonbrewery.co.uk/our-beers/buxton-wild-boar-5-7-abv/",
 		"style":"IPA",
 		"abv":5.7,
-		"brewery": "Buxton Brewery"
+		"brewery": "Buxton Brewery",
+		"ratings":[]
 		},{
 		"name":"13 Guns",
 		"url":"http://www.ratebeer.com/beer/thwaites-13-guns/181880/",
 		"style":"American IPA",
 		"abv":5.5,
-		"brewery": "Crafty Dan"
+		"brewery": "Crafty Dan",
+		"ratings":[]
 		},{
 		"name":"Holy Cowbell",
 		"url":"http://www.ratebeer.com/beer/beavertown-holy-cowbell-india-stout/270727/",
 		"style":"Indian Stout",
 		"abv":5.6,
-		"brewery": "Beavertown"
+		"brewery": "Beavertown",
+		"ratings":[]
 		}]
 	},
 	{
@@ -42,19 +47,22 @@
 		"url":"http://www.ratebeer.com/beer/marstons-sweet-chariot-cask/44800/",
 		"style":"English bitter",
 		"abv":4.2,
-		"brewery": "Marstone's"
+		"brewery": "Marstone's",
+		"ratings":[]
 		},{
 		"name":"Hitachino Nest JCA",
 		"url":"http://www.kodawari.cc/?en_home/products/hitachino-nest-beer.html",
 		"style":"Japanese Classic Ale",
 		"abv":7.0,
-		"brewery": "Hitachino"
+		"brewery": "Hitachino",
+		"ratings":[]
 		},{
 		"name":"Heart & Soul",
 		"url":"http://www.vocationbrewery.com/products/heart-soul",
 		"style":"Session IPA",
 		"abv":4.5,
-		"brewery": "Vocation Brewery"
+		"brewery": "Vocation Brewery",
+		"ratings":[]
 		}]
 	}
 	]
