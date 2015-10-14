@@ -64,5 +64,23 @@
 		"brewery": "Vocation Brewery",
 		"ratings":[{"who":"coldclimate", "rating":4}]
 		}]
+	},
+	{
+	"date" : "2015-10-15",
+	"beers" : [{
+		"name":"CANDY KAISER",
+		"url":"https://www.brewdog.com/item/967/BrewDog/Candy-Kaiser.html",
+		"style":"northern German style altbier",
+		"abv":5.2,
+		"brewery": "Brewdog",
+		"ratings":[]
+		},{
+		"name":"PUMPKIN KING",
+		"url":"https://www.brewdog.com/item/55/BrewDog/Pumpkin-King.html",
+		"style":"pumpkin ale",
+		"abv":5.4,
+		"brewery": "BrewDog",
+		"ratings":[]
+		}]
 	}
 	]
