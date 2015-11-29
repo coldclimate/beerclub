@@ -82,5 +82,23 @@
 		"brewery": "BrewDog",
 		"ratings":[]
 		}]
+	},
+	{
+	"date" : "2015-11-29",
+	"beers" : [{
+		"name":"No Label",
+		"url":"https://www.brewdog.com/item/1008/BrewDog/No-Label.html",
+		"style":"Kölsch",
+		"abv":4.6,
+		"brewery": "Brewdog",
+		"ratings":[]
+		},{
+		"name":"Dogma",
+		"url":"https://www.brewdog.com/item/53/BrewDog/Dogma.html",
+		"style":"scotch bitter",
+		"abv":7.4,
+		"brewery": "BrewDog",
+		"ratings":[]
+		}]
 	}
 	]
