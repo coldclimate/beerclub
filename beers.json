@@ -108,4 +108,32 @@
 			"comment": "Maybe it is just the fact I was spitting feathers after my Digger pinched my first beer, however this was very enjoyable.  You could easily drink several of these before realising the hard way that its actually quite strong.  Would definitely order more."
 		}]
 	}]
-}]
+},
+{
+	"date" : "2015-12-17",
+	"beers" : [{
+		"name":"Juxta Beer",
+		"url":"http://www.hardknott.com/Shop/?page_id=775",
+		"style":"Golden ale",
+		"abv":1.9,
+		"style":"Hardknott",
+		"brewery": "Brewdog",
+		"ratings":[]
+	},{
+		"name":"Salty kiss gooseberry gose",
+		"url":"http://www.magicrockbrewing.com/blog/salty-kiss-gooseberry-gose/",
+		"style":"Gose",
+		"abv":4.1,
+		"brewery": "Magic Rock",
+		"ratings":[]
+	},
+	{
+		"name":"Five Points Pale",
+		"url":"http://fivepointsbrewing.co.uk/beer/five-points-pale/",
+		"style":"Pale ale",
+		"abv":4.4,
+		"brewery": "The Five Point Brewing Company",
+		"ratings":[]
+	}]
+}
+]
