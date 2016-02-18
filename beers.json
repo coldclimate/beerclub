@@ -116,8 +116,7 @@
 		"url":"http://www.hardknott.com/Shop/?page_id=775",
 		"style":"Golden ale",
 		"abv":1.9,
-		"style":"Hardknott",
-		"brewery": "Brewdog",
+		"brewery": "Hardknott",
 		"ratings":[]
 	},{
 		"name":"Salty kiss gooseberry gose",
@@ -133,6 +132,47 @@
 		"style":"Pale ale",
 		"abv":4.4,
 		"brewery": "The Five Point Brewing Company",
+		"ratings":[]
+	}]
+},
+{
+	"date" : "2016-02-18",
+	"beers" : [{
+		"name":"Juxta Beer",
+		"url":"http://www.hardknott.com/Shop/?page_id=775",
+		"style":"Golden ale",
+		"abv":1.9,
+		"brewery": "Hardknott",
+		"ratings":[]
+	},
+	{
+		"name":"Sleepless",
+		"url":"http://www.redwillowbrewery.com/beers/sleepless/",
+		"abv":5.4,
+		"style":"American Amber Ale",
+		"brewery": "RedWillow",
+		"ratings":[]
+	},{
+		"name":"Summer Lager",
+		"url":"http://www.ratebeer.com/beer/cloudwater-summer-range--lager/342192/",
+		"abv":5.5,
+		"style":"Lager",
+		"brewery": "Cloudwater",
+		"ratings":[]
+	},
+	{
+		"name":"Imperial Strength Anarchy Lager",
+		"url":"http://anarchybrewco.com/",
+		"abv":7,
+		"style":"Lager",
+		"brewery": "Anarchy Brewing Co",
+		"ratings":[]
+	},{
+		"name":"Coffee and Orange Oatmeal Pale",
+		"url":"http://www.redwillowbrewery.com/beers/sleepless/",
+		"abv":4.2,
+		"style":"Pale ale",
+		"brewery": "Northern Alchemy",
 		"ratings":[]
 	}]
 }
