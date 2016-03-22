@@ -2,4 +2,9 @@
 	"name": "Sage ELSM",
 	"chapter": 0,
 	"data": "sage-elsm/beers.json"
+},
+{
+	"name": "LogicNow",
+	"chapter": 1,
+	"data": "logicnow/beers.json"
 }]
