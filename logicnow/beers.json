@@ -7,21 +7,32 @@
 		"style": "Smoked red ale",
 		"abv": 5.4,
 		"brewery": "Tempest Brewing",
-		"ratings": []
+		"ratings":[{
+			"who":"djnwhiley",
+			"rating":3.5,
+			"comment":"Smokey and the Bandit"
+		}]
 	}, {
 		"name": "Rodenbach",
 		"brewery": "Brouwerij Rodenbach (Palm)",
 		"url": "http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
 		"style": "Sour Red",
 		"abv": 5.2,
-		"ratings": []
+		"ratings":[{
+			"who":"djnwhiley",
+			"rating":3
+		}]
 	}, {
 		"name": "Salty Kiss",
 		"brewery": "Magic Rock Brewing",
 		"url": "http://www.magicrockbrewing.com/blog/salty-kiss-gooseberry-gose/",
 		"style": "Gooseberry Gose",
 		"abv": 4.1,
-		"ratings": []
+		"ratings":[{
+			"who":"djnwhiley",
+		 	"rating":4,
+  		"comment":"After enjoying this I recommend a glass of water before commencing another beer"
+		}]
 	}]
 },
 {
