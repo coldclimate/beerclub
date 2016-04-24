@@ -23,4 +23,39 @@
 		"abv": 4.1,
 		"ratings": []
 	}]
-}]
+},
+{
+	"date": "2016-04-245",
+	"title": "Aye Aye Aye PA",
+	"beers": [{
+		"name": "Crystal Rye IPA",
+		"url": "http://adnams.co.uk/beer/our-beers/jack-brand-rye-ipa/",
+		"style": "IPA",
+		"abv": 5,
+		"brewery": "Adnams Southwold",
+		"ratings": []
+	},{
+		"name": "Punk IPA",
+		"url": "https://www.brewdog.com/beer/headliners/punk-ipa",
+		"style": "American style IPA",
+		"abv": 5.6,
+		"brewery": "Brewdog",
+		"ratings": []
+	},{
+		"name": "East IPA",
+		"url": "http://brooklynbrewery.com/brooklyn-beers/perennial-brews/brooklyln-east-india-pale-ale",
+		"style": "IPA",
+		"abv": 6.9,
+		"brewery": "Brooklyn",
+		"ratings": []
+	},{
+		"name": "Full Amber",
+		"url": "http://www.ratebeer.com/beer/brutal-brewing-pistonhead-full-amber/329939/",
+		"style": "Lager",
+		"abv": 6.0,
+		"brewery": "Pistonhead",
+		"ratings": []
+	}
+	]
+}
+]
