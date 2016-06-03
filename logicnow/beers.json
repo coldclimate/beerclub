@@ -7,10 +7,10 @@
 		"style": "Smoked red ale",
 		"abv": 5.4,
 		"brewery": "Tempest Brewing",
-		"ratings":[{
-			"who":"djnwhiley",
-			"rating":3.5,
-			"comment":"Smokey and the Bandit"
+		"ratings": [{
+			"who": "djnwhiley",
+			"rating": 3.5,
+			"comment": "Smokey and the Bandit"
 		}]
 	}, {
 		"name": "Rodenbach",
@@ -18,9 +18,9 @@
 		"url": "http://www.ratebeer.com/beer/brewdog-elvis-juice/349258/",
 		"style": "Sour Red",
 		"abv": 5.2,
-		"ratings":[{
-			"who":"djnwhiley",
-			"rating":3
+		"ratings": [{
+			"who": "djnwhiley",
+			"rating": 3
 		}]
 	}, {
 		"name": "Salty Kiss",
@@ -28,14 +28,13 @@
 		"url": "http://www.magicrockbrewing.com/blog/salty-kiss-gooseberry-gose/",
 		"style": "Gooseberry Gose",
 		"abv": 4.1,
-		"ratings":[{
-			"who":"djnwhiley",
-		 	"rating":4,
-  		"comment":"After enjoying this I recommend a glass of water before commencing another beer"
+		"ratings": [{
+			"who": "djnwhiley",
+			"rating": 4,
+			"comment": "After enjoying this I recommend a glass of water before commencing another beer"
 		}]
 	}]
-},
-{
+}, {
 	"date": "2016-04-245",
 	"title": "Aye Aye Aye PA",
 	"beers": [{
@@ -45,28 +44,44 @@
 		"abv": 5,
 		"brewery": "Adnams Southwold",
 		"ratings": []
-	},{
+	}, {
 		"name": "Punk IPA",
 		"url": "https://www.brewdog.com/beer/headliners/punk-ipa",
 		"style": "American style IPA",
 		"abv": 5.6,
 		"brewery": "Brewdog",
 		"ratings": []
-	},{
+	}, {
 		"name": "East IPA",
 		"url": "http://brooklynbrewery.com/brooklyn-beers/perennial-brews/brooklyln-east-india-pale-ale",
 		"style": "IPA",
 		"abv": 6.9,
 		"brewery": "Brooklyn",
 		"ratings": []
-	},{
+	}, {
 		"name": "Full Amber",
 		"url": "http://www.ratebeer.com/beer/brutal-brewing-pistonhead-full-amber/329939/",
 		"style": "Lager",
 		"abv": 6.0,
 		"brewery": "Pistonhead",
 		"ratings": []
-	}
-	]
-}
-]
+	}, {
+		"date": "2016-03-24",
+		"title": "A solar wind is blowing",
+		"beers": [{
+			"name": "Spratwaffler",
+			"url": "http://timeandtidebrewing.co.uk/",
+			"style": "Pale Ale",
+			"abv": 3.7,
+			"brewery": "Time and Tide Brewing",
+			"ratings": []
+		}, {
+			"name": "CoCoNut Porter",
+			"brewery": "Maui Brewing Co",
+			"url": "http://mauibrewingco.com/discover_beer/coconut-hiwa-porter/",
+			"style": "Porter",
+			"abv": 6.0,
+			"ratings": []
+		}]
+	}]
+}]
