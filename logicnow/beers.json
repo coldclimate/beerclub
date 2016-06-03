@@ -65,23 +65,23 @@
 		"abv": 6.0,
 		"brewery": "Pistonhead",
 		"ratings": []
+	}]
+}, {
+	"date": "2016-03-24",
+	"title": "A solar wind is blowing",
+	"beers": [{
+		"name": "Spratwaffler",
+		"url": "http://timeandtidebrewing.co.uk/",
+		"style": "Pale Ale",
+		"abv": 3.7,
+		"brewery": "Time and Tide Brewing",
+		"ratings": []
 	}, {
-		"date": "2016-03-24",
-		"title": "A solar wind is blowing",
-		"beers": [{
-			"name": "Spratwaffler",
-			"url": "http://timeandtidebrewing.co.uk/",
-			"style": "Pale Ale",
-			"abv": 3.7,
-			"brewery": "Time and Tide Brewing",
-			"ratings": []
-		}, {
-			"name": "CoCoNut Porter",
-			"brewery": "Maui Brewing Co",
-			"url": "http://mauibrewingco.com/discover_beer/coconut-hiwa-porter/",
-			"style": "Porter",
-			"abv": 6.0,
-			"ratings": []
-		}]
+		"name": "CoCoNut Porter",
+		"brewery": "Maui Brewing Co",
+		"url": "http://mauibrewingco.com/discover_beer/coconut-hiwa-porter/",
+		"style": "Porter",
+		"abv": 6.0,
+		"ratings": []
 	}]
 }]
