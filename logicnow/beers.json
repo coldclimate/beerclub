@@ -75,13 +75,21 @@
 		"style": "Pale Ale",
 		"abv": 3.7,
 		"brewery": "Time and Tide Brewing",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 1.5,
+			"comment": "Way to bitter, even for a british beer"
+		}]
 	}, {
 		"name": "CoCoNut Porter",
 		"brewery": "Maui Brewing Co",
 		"url": "http://mauibrewingco.com/discover_beer/coconut-hiwa-porter/",
 		"style": "Porter",
 		"abv": 6.0,
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 4,
+			"comment": "Really nice porter, a bit sweeter than usual, with a nice coffee and coconut aroma"
+		}]
 	}]
 }]
