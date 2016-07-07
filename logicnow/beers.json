@@ -1,4 +1,5 @@
-[{
+[
+{
 	"date": "2016-03-24",
 	"title": "A brave new world",
 	"beers": [{
@@ -92,4 +93,39 @@
 			"comment": "Really nice porter, a bit sweeter than usual, with a nice coffee and coconut aroma"
 		}]
 	}]
-}]
+},
+{
+	"date": "2016-07-07",
+	"title": "Brexit Edition: all ale and hearty",
+	"beers": [{
+		"name": "Double Chocolate",
+		"url": "http://www.charleswells.co.uk/our-company/our-products/youngs-double-chocolate-stout/",
+		"style": "Stout",
+		"abv": 5.2,
+		"brewery": "Youngs",
+		"ratings": []
+	},{
+		"name": "Champion",
+		"url": "http://www.beeradvocate.com/beer/profile/188/12260/",
+		"style": "Scottish Ale",
+		"abv": 7.3,
+		"brewery": "The Caledonian Brewing Company",
+		"ratings": []
+	},{
+		"name": "IPA Gold",
+		"url": "http://www.greeneking.co.uk/index.asp?pageid=69",
+		"style": "IPA",
+		"abv": 3.6,
+		"brewery": "Greene King",
+		"ratings": []
+	},{
+		"name": "Old Peculier",
+		"url": "timeandtide",
+		"style": "Old Ale",
+		"abv": 5.6,
+		"brewery": "Theakston",
+		"ratings": []
+	},]
+}
+
+]
