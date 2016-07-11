@@ -103,28 +103,44 @@
 		"style": "Stout",
 		"abv": 5.2,
 		"brewery": "Youngs",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 2.75,
+			"comment": "A just ok stout with no remarkable features"
+		}]
 	},{
 		"name": "Champion",
 		"url": "http://www.beeradvocate.com/beer/profile/188/12260/",
 		"style": "Scottish Ale",
 		"abv": 7.3,
 		"brewery": "The Caledonian Brewing Company",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3,
+			"comment": "With a slight smoked aftertaste"
+		}]
 	},{
 		"name": "IPA Gold",
 		"url": "http://www.greeneking.co.uk/index.asp?pageid=69",
 		"style": "IPA",
 		"abv": 3.6,
 		"brewery": "Greene King",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3,
+			"comment": "Fruity and refreshing"
+		}]
 	},{
 		"name": "Old Peculier",
 		"url": "timeandtide",
 		"style": "Old Ale",
 		"abv": 5.6,
 		"brewery": "Theakston",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 4,
+			"comment": "The best of the set. Nice 'toasted' flavour."
+		}]
 	}]
 }
 
