@@ -1,3 +1,5 @@
+![Beer Club](/logo.png "Beer Club")
+
 # beerclub
 A repository and tasty beverages
 
