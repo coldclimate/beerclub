@@ -142,6 +142,33 @@
 			"comment": "The best of the set. Nice 'toasted' flavour."
 		}]
 	}]
-}
-
+},
+{
+	"date": "2016-08-17",
+	"title": "Fruity all day drinking",
+	"beers": [{
+		"name": "Schofferhofer Grapefruit",
+		"url": "http://www.schofferhofer.us/",
+		"style": "wheat beer",
+		"abv": 2.5,
+		"brewery": "Schofferhofer",
+		"ratings": []
+	},
+	{
+		"name": "Box Social Kaffir Lime",
+		"url": "http://www.boxsocial.pub/#!beers/cqnr",
+		"style": "Session IPA",
+		"abv": 4.3,
+		"brewery": "Box Social Brewing",
+		"ratings": []
+	},
+	{
+		"name": "Totally Radler",
+		"url": "http://www.tempestbrewco.com/totally-radler",
+		"style": "Radler",
+		"abv": 2.0,
+		"brewery": "Tempest Brewing Co",
+		"ratings": []
+	}]
+	}
 ]
