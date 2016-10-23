@@ -170,5 +170,25 @@
 		"brewery": "Tempest Brewing Co",
 		"ratings": []
 	}]
+	},
+	{
+	"date": "2016-10-23",
+	"title": "You never can tell",
+	"beers": [{
+		"name": "Lupuloid IPA",
+		"url": "http://www.beavertownbrewery.co.uk/we-bring-you-the-lupuloid/",
+		"style": "IPA",
+		"abv": 6.7,
+		"brewery": "Beavertown",
+		"ratings": []
+	},
+	{
+		"name": "Box Social Tyger Blood",
+		"url": "http://www.ratebeer.com/brewers/box-social-brewing/23947/",
+		"style": "Red IPA",
+		"abv": 5,
+		"brewery": "Box Social Brewing",
+		"ratings": []
+	}]
 	}
 ]
