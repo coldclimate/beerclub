@@ -152,7 +152,11 @@
 		"style": "wheat beer",
 		"abv": 2.5,
 		"brewery": "Schofferhofer",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 4,
+			"comment": “Nice mixture of sweet and bitter.”
+		}]
 	},
 	{
 		"name": "Box Social Kaffir Lime",
@@ -160,7 +164,11 @@
 		"style": "Session IPA",
 		"abv": 4.3,
 		"brewery": "Box Social Brewing",
-		"ratings": []
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 2.5,
+			"comment": “The fruity flavour makes its bitterness at least a bit bearable.”
+		}]
 	},
 	{
 		"name": "Totally Radler",
@@ -168,6 +176,30 @@
 		"style": "Radler",
 		"abv": 2.0,
 		"brewery": "Tempest Brewing Co",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 1.5,
+			"comment": “Completely flavourless, it felt like drinking slightly sparkling water.”
+		}]
+	}]
+	},
+	{
+	"date": "2016-10-23",
+	"title": "You never can tell",
+	"beers": [{
+		"name": "Lupuloid IPA",
+		"url": "http://www.beavertownbrewery.co.uk/we-bring-you-the-lupuloid/",
+		"style": "IPA",
+		"abv": 6.7,
+		"brewery": "Beavertown",
+		"ratings": []
+	},
+	{
+		"name": "Box Social Tyger Blood",
+		"url": "http://www.ratebeer.com/brewers/box-social-brewing/23947/",
+		"style": "Red IPA",
+		"abv": 5,
+		"brewery": "Box Social Brewing",
 		"ratings": []
 	}]
 	}
