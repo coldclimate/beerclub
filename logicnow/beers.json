@@ -204,23 +204,55 @@
 	}]
 	},
 	{
-	"date": "2016-10-23",
-	"title": "You never can tell",
+	"date": "2016-11-25",
+	"title": "",
 	"beers": [{
-		"name": "Lupuloid IPA",
-		"url": "http://www.beavertownbrewery.co.uk/we-bring-you-the-lupuloid/",
-		"style": "IPA",
-		"abv": 6.7,
-		"brewery": "Beavertown",
-		"ratings": []
+		"name": "Morland Old Golden Hen",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 2,
+                        "comment": “Not my cup of tea.”
+                }]
 	},
 	{
-		"name": "Box Social Tyger Blood",
-		"url": "http://www.ratebeer.com/brewers/box-social-brewing/23947/",
-		"style": "Red IPA",
-		"abv": 5,
-		"brewery": "Box Social Brewing",
-		"ratings": []
-	}]
+		"name": "Hobgoblin",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 4.0,
+                        "comment": “Good old hobgoblin never disappoints me.”
+                }]
+	},
+        {
+                "name": "Pure UBU",
+                "url": "",
+                "style": "",
+                "abv": 0,
+                "brewery": "",
+                "ratings": [{
+                        "who": "pablosuau",
+                        "rating": 2.75,
+                        "comment": “Nice ale, but still too much for my taste.”
+                }]
+        },
+        {
+                "name": "Bluebird Bitter",
+                "url": "",
+                "style": "",
+                "abv": 0,
+                "brewery": "",
+                "ratings": [{
+                        "who": "pablosuau",
+                        "rating": 3.0,
+                        "comment": “Nice after taste. Not as bitter as stated in the label.”
+                }]
+        }]
 	}
 ]
