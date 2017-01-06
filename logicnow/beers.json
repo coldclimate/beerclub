@@ -1,5 +1,4 @@
-[
-{
+[{
 	"date": "2016-03-24",
 	"title": "A brave new world",
 	"beers": [{
@@ -93,8 +92,7 @@
 			"comment": "Really nice porter, a bit sweeter than usual, with a nice coffee and coconut aroma"
 		}]
 	}]
-},
-{
+}, {
 	"date": "2016-07-07",
 	"title": "Brexit Edition: all ale and hearty",
 	"beers": [{
@@ -108,7 +106,7 @@
 			"rating": 2.75,
 			"comment": "A just ok stout with no remarkable features"
 		}]
-	},{
+	}, {
 		"name": "Champion",
 		"url": "http://www.beeradvocate.com/beer/profile/188/12260/",
 		"style": "Scottish Ale",
@@ -119,7 +117,7 @@
 			"rating": 3,
 			"comment": "With a slight smoked aftertaste"
 		}]
-	},{
+	}, {
 		"name": "IPA Gold",
 		"url": "http://www.greeneking.co.uk/index.asp?pageid=69",
 		"style": "IPA",
@@ -130,7 +128,7 @@
 			"rating": 3,
 			"comment": "Fruity and refreshing"
 		}]
-	},{
+	}, {
 		"name": "Old Peculier",
 		"url": "timeandtide",
 		"style": "Old Ale",
@@ -142,8 +140,7 @@
 			"comment": "The best of the set. Nice 'toasted' flavour."
 		}]
 	}]
-},
-{
+}, {
 	"date": "2016-08-17",
 	"title": "Fruity all day drinking",
 	"beers": [{
@@ -157,8 +154,7 @@
 			"rating": 4,
 			"comment": "Nice mixture of sweet and bitter."
 		}]
-	},
-	{
+	}, {
 		"name": "Box Social Kaffir Lime",
 		"url": "http://www.boxsocial.pub/#!beers/cqnr",
 		"style": "Session IPA",
@@ -169,8 +165,7 @@
 			"rating": 2.5,
 			"comment": "The fruity flavour makes its bitterness at least a bit bearable."
 		}]
-	},
-	{
+	}, {
 		"name": "Totally Radler",
 		"url": "http://www.tempestbrewco.com/totally-radler",
 		"style": "Radler",
@@ -182,8 +177,7 @@
 			"comment": "Completely flavourless, it felt like drinking slightly sparkling water."
 		}]
 	}]
-	},
-	{
+}, {
 	"date": "2016-10-23",
 	"title": "You never can tell",
 	"beers": [{
@@ -193,8 +187,7 @@
 		"abv": 6.7,
 		"brewery": "Beavertown",
 		"ratings": []
-	},
-	{
+	}, {
 		"name": "Box Social Tyger Blood",
 		"url": "http://www.ratebeer.com/brewers/box-social-brewing/23947/",
 		"style": "Red IPA",
@@ -202,25 +195,23 @@
 		"brewery": "Box Social Brewing",
 		"ratings": []
 	}]
-	},
-	{
-	"date": "2016-10-23",
-	"title": "You never can tell",
+},
+{
+	"date": "2017-01-06",
+	"title": "First of the year",
 	"beers": [{
-		"name": "Lupuloid IPA",
-		"url": "http://www.beavertownbrewery.co.uk/we-bring-you-the-lupuloid/",
-		"style": "IPA",
-		"abv": 6.7,
-		"brewery": "Beavertown",
+		"name": "Colorado Red",
+		"url": "https://www.thornbridgebrewery.co.uk/product.php?s=colorado-red",
+		"style": "English Ale",
+		"abv": 5.9,
+		"brewery": "Thornbridge",
 		"ratings": []
-	},
-	{
-		"name": "Box Social Tyger Blood",
-		"url": "http://www.ratebeer.com/brewers/box-social-brewing/23947/",
-		"style": "Red IPA",
-		"abv": 5,
-		"brewery": "Box Social Brewing",
+	}, {
+		"name": "Arrogant Bastard Ale",
+		"url": "http://www.arrogantbrewing.com/beer/year-round-releases/arrogant-bastard-ale#ageGatePassed",
+		"style": "Ale",
+		"abv": 7.2,
+		"brewery": "Arrogant Brewing",
 		"ratings": []
 	}]
-	}
-]
+}]
