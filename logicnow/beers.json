@@ -195,4 +195,23 @@
 		"brewery": "Box Social Brewing",
 		"ratings": []
 	}]
+},
+{
+	"date": "2017-01-06",
+	"title": "First of the year",
+	"beers": [{
+		"name": "Colorado Red",
+		"url": "https://www.thornbridgebrewery.co.uk/product.php?s=colorado-red",
+		"style": "English Ale",
+		"abv": 5.9,
+		"brewery": "Thornbridge",
+		"ratings": []
+	}, {
+		"name": "Arrogant Bastard Ale",
+		"url": "http://www.arrogantbrewing.com/beer/year-round-releases/arrogant-bastard-ale#ageGatePassed",
+		"style": "Ale",
+		"abv": 7.2,
+		"brewery": "Arrogant Brewing",
+		"ratings": []
+	}]
 }]
