@@ -214,4 +214,41 @@
 		"brewery": "Arrogant Brewing",
 		"ratings": []
 	}]
+}, {
+	"date": "2017-02-27",
+	"title": "Wheat beers all they way",
+	"beers": [{
+		"name": "Krombacher Weizen,
+		"url": "",
+		"style": "",
+		"abv": 2.5,
+		"brewery": "",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3,
+			"comment": "Another nice wheat beer, with a more subtle flabour."
+		}]
+	}, {
+		"name": "Candem Gentleman's Will White Beer",
+		"url": "",
+		"style": "",
+		"abv": 4.3,
+		"brewery": "",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3,
+			"comment": "Nice easy going white beer. Not too sweet."
+		}]
+	}, {
+		"name": "X2",
+		"url": "",
+		"style": "",
+		"abv": 2.0,
+		"brewery": "",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3,
+			"comment": "Subtle and smooth. Really nice."
+		}]
+	}]
 }]
