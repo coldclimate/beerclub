@@ -195,8 +195,7 @@
 		"brewery": "Box Social Brewing",
 		"ratings": []
 	}]
-},
-	{
+}, {
 	"date": "2016-11-25",
 	"title": "",
 	"beers": [{
@@ -206,49 +205,45 @@
 		"abv": 0,
 		"brewery": "",
 		"ratings": [{
-                        "who": "pablosuau",
-                        "rating": 2,
-                        "comment": "Not my cup of tea."
-                }]
-	},
-	{
+			"who": "pablosuau",
+			"rating": 2,
+			"comment": "Not my cup of tea."
+		}]
+	}, {
 		"name": "Hobgoblin",
 		"url": "",
 		"style": "",
 		"abv": 0,
 		"brewery": "",
 		"ratings": [{
-                        "who": "pablosuau",
-                        "rating": 4.0,
-                        "comment": "Good old hobgoblin never disappoints me."
-                }]
-	},
-        {
-                "name": "Pure UBU",
-                "url": "",
-                "style": "",
-                "abv": 0,
-                "brewery": "",
-                "ratings": [{
-                        "who": "pablosuau",
-                        "rating": 2.75,
-                        "comment": "Nice ale, but still too much for my taste."
-                }]
-        },
-        {
-                "name": "Bluebird Bitter",
-                "url": "",
-                "style": "",
-                "abv": 0,
-                "brewery": "",
-                "ratings": [{
-                        "who": "pablosuau",
-                        "rating": 3.0,
-                        "comment": "Nice after taste. Not as bitter as stated in the label."
-                }]
-        }]
-},
-{
+			"who": "pablosuau",
+			"rating": 4.0,
+			"comment": "Good old hobgoblin never disappoints me."
+		}]
+	}, {
+		"name": "Pure UBU",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 2.75,
+			"comment": "Nice ale, but still too much for my taste."
+		}]
+	}, {
+		"name": "Bluebird Bitter",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+			"who": "pablosuau",
+			"rating": 3.0,
+			"comment": "Nice after taste. Not as bitter as stated in the label."
+		}]
+	}]
+}, {
 	"date": "2017-01-06",
 	"title": "First of the year",
 	"beers": [{
@@ -258,10 +253,10 @@
 		"abv": 5.9,
 		"brewery": "Thornbridge",
 		"ratings": [{
-                        "who": "pablosuau",
-                        "rating": 3.0,
-                        "comment": "Refreshing with some sweetness."
-                }]
+			"who": "pablosuau",
+			"rating": 3.0,
+			"comment": "Refreshing with some sweetness."
+		}]
 	}, {
 		"name": "Arrogant Bastard Ale",
 		"url": "http://www.arrogantbrewing.com/beer/year-round-releases/arrogant-bastard-ale#ageGatePassed",
@@ -269,9 +264,47 @@
 		"abv": 7.2,
 		"brewery": "Arrogant Brewing",
 		"ratings": [{
-                        "who": "pablosuau",
-                        "rating": 2.75,
-                        "comment": "Not so bitter, slightly toasted."
-                }]
+			"who": "pablosuau",
+			"rating": 2.75,
+			"comment": "Not so bitter, slightly toasted."
+		}]
+
+	}, {
+		"date": "2017-02-27",
+		"title": "Wheat beers all they way",
+		"beers": [{
+			"name": "Krombacher Weizen",
+			"url": "",
+			"style": "",
+			"abv": 2.5,
+			"brewery": "",
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 3,
+				"comment": "Another nice wheat beer, with a more subtle flabour."
+			}]
+		}, {
+			"name": "Candem Gentleman's Will White Beer",
+			"url": "",
+			"style": "",
+			"abv": 4.3,
+			"brewery": "",
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 3,
+				"comment": "Nice easy going white beer. Not too sweet."
+			}]
+		}, {
+			"name": "X2",
+			"url": "",
+			"style": "",
+			"abv": 2.0,
+			"brewery": "",
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 3,
+				"comment": "Subtle and smooth. Really nice."
+			}]
+		}]
 	}]
 }]
