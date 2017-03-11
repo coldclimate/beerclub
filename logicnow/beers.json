@@ -274,21 +274,21 @@
 		"title": "Wheat beers all they way",
 		"beers": [{
 			"name": "Krombacher Weizen",
-			"url": "",
-			"style": "",
-			"abv": 2.5,
-			"brewery": "",
+			"url": "https://www.beeradvocate.com/beer/profile/566/38666/",
+			"style": "Hefeweizen ",
+			"abv": 5.3,
+			"brewery": "Krombacher Brauerei ",
 			"ratings": [{
 				"who": "pablosuau",
 				"rating": 3,
 				"comment": "Another nice wheat beer, with a more subtle flabour."
 			}]
 		}, {
-			"name": "Candem Gentleman's Will White Beer",
-			"url": "",
-			"style": "",
+			"name": "Gentlemen's Wit",
+			"url": "http://www.camdentownbrewery.com/beer/gentlemans-wit/",
+			"style": "White Beer",
 			"abv": 4.3,
-			"brewery": "",
+			"brewery": "Camden Town",
 			"ratings": [{
 				"who": "pablosuau",
 				"rating": 3,
@@ -296,10 +296,10 @@
 			}]
 		}, {
 			"name": "X2",
-			"url": "",
-			"style": "",
-			"abv": 2.0,
-			"brewery": "",
+			"url": "https://www.ratebeer.com/beer/mordue-x2/211604/",
+			"style": "Blond Ale",
+			"abv": 4.7,
+			"brewery": "Mordue",
 			"ratings": [{
 				"who": "pablosuau",
 				"rating": 3,
