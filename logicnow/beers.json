@@ -196,6 +196,58 @@
 		"ratings": []
 	}]
 },
+	{
+	"date": "2016-11-25",
+	"title": "",
+	"beers": [{
+		"name": "Morland Old Golden Hen",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 2,
+                        "comment": "Not my cup of tea."
+                }]
+	},
+	{
+		"name": "Hobgoblin",
+		"url": "",
+		"style": "",
+		"abv": 0,
+		"brewery": "",
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 4.0,
+                        "comment": "Good old hobgoblin never disappoints me."
+                }]
+	},
+        {
+                "name": "Pure UBU",
+                "url": "",
+                "style": "",
+                "abv": 0,
+                "brewery": "",
+                "ratings": [{
+                        "who": "pablosuau",
+                        "rating": 2.75,
+                        "comment": "Nice ale, but still too much for my taste."
+                }]
+        },
+        {
+                "name": "Bluebird Bitter",
+                "url": "",
+                "style": "",
+                "abv": 0,
+                "brewery": "",
+                "ratings": [{
+                        "who": "pablosuau",
+                        "rating": 3.0,
+                        "comment": "Nice after taste. Not as bitter as stated in the label."
+                }]
+        }]
+},
 {
 	"date": "2017-01-06",
 	"title": "First of the year",
@@ -205,13 +257,21 @@
 		"style": "English Ale",
 		"abv": 5.9,
 		"brewery": "Thornbridge",
-		"ratings": []
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 3.0,
+                        "comment": "Refreshing with some sweetness."
+                }]
 	}, {
 		"name": "Arrogant Bastard Ale",
 		"url": "http://www.arrogantbrewing.com/beer/year-round-releases/arrogant-bastard-ale#ageGatePassed",
 		"style": "Ale",
 		"abv": 7.2,
 		"brewery": "Arrogant Brewing",
-		"ratings": []
+		"ratings": [{
+                        "who": "pablosuau",
+                        "rating": 2.75,
+                        "comment": "Not so bitter, slightly toasted."
+                }]
 	}]
 }]
