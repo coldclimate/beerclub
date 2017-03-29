@@ -306,5 +306,34 @@
 				"comment": "Subtle and smooth. Really nice."
 			}]
 		}]
+	},
+{
+		"date": "2017-03-29",
+		"title": "Bye bye baby bye bye",
+		"retailer": "https://championbottlesandtaps.co.uk/",
+		"beers": [{
+			"name": "Stay Puft",
+			"url": "http://www.tinyrebel.co.uk/beers/stay-puft/",
+			"style": "Porter ",
+			"abv": 5.6,
+			"brewery": "Tiny Rebel",
+			"ratings": []
+		},
+	{
+			"name": "Belle-Fleur IPA",
+			"url": "https://www.ratebeer.com/beer/de-dochter-van-de-korenaar-belle-fleur-ipa/156067/",
+			"style": "IPA",
+			"abv": 6,
+			"brewery": "De Dochter van de Korenaar",
+			"ratings": []
+		},
+	{
+			"name": "London Fields Pale Ale",
+			"url": "https://www.ratebeer.com/beer/brodies-london-fields-pale-ale/149553/",
+			"style": "Golden Ale",
+			"abv": 4,
+			"brewery": "Brodies",
+			"ratings": []
+		}]
 	}]
 }]
