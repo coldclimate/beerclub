@@ -317,7 +317,11 @@
 			"style": "Porter ",
 			"abv": 5.6,
 			"brewery": "Tiny Rebel",
-			"ratings": []
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 5,
+				"comment": "My favourite porter ever. Period. My favourite beer ever so far. Period."
+			}]
 		},
 	{
 			"name": "Belle-Fleur IPA",
@@ -325,7 +329,11 @@
 			"style": "IPA",
 			"abv": 6,
 			"brewery": "De Dochter van de Korenaar",
-			"ratings": []
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 4,
+				"comment": "Interesting cytric flavour. Not only getting used to IPAs, but also learning to love them."
+			}]
 		},
 	{
 			"name": "London Fields Pale Ale",
@@ -333,7 +341,11 @@
 			"style": "Golden Ale",
 			"abv": 4,
 			"brewery": "Brodies",
-			"ratings": []
+			"ratings": [{
+				"who": "pablosuau",
+				"rating": 1.5,
+				"comment": "Very, very bland. "
+			}]
 		}]
 	}]
 }]
