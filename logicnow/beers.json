@@ -269,7 +269,8 @@
 			"comment": "Not so bitter, slightly toasted."
 		}]
 
-	}, {
+	}]
+}, {
 		"date": "2017-02-27",
 		"title": "Wheat beers all they way",
 		"beers": [{
@@ -306,8 +307,7 @@
 				"comment": "Subtle and smooth. Really nice."
 			}]
 		}]
-	},
-{
+},{
 		"date": "2017-03-29",
 		"title": "Bye bye baby bye bye",
 		"retailer": "https://championbottlesandtaps.co.uk/",
@@ -348,4 +348,3 @@
 			}]
 		}]
 	}]
-}]
