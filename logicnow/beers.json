@@ -347,4 +347,24 @@
 				"comment": "Very, very bland. "
 			}]
 		}]
+	},{
+	"date": "2017-04-28",
+	"title": "The odd couple",
+	"retailer": "https://en-gb.facebook.com/Coppers-At-Gosforth-270001543023598/",
+	"beers": [{
+		"name": "Sleeping Lemons Export",
+		"url": "https://www.ratebeer.com/beer/wild-beer-sleeping-lemons-export/413217/",
+		"style": "Gose",
+		"abv": 6.0,
+		"brewery": "Wildbeer",
+		"ratings": []
+	}, {
+		"name": "White Stout",
+		"url": "https://www.ratebeer.com/beer/durham-white-stout/161340/",
+		"style": "Pale Stout",
+		"abv": 7.2,
+		"brewery": "The Durham Brewery",
+		"ratings": []
+
 	}]
+}]
