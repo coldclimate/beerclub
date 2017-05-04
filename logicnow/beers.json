@@ -358,14 +358,22 @@
 		"style": "Gose",
 		"abv": 6.0,
 		"brewery": "Wildbeer",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.0,
+				"comment": "I am surprised that I like this one. "
+			}]
 	}, {
 		"name": "White Stout",
 		"url": "https://www.ratebeer.com/beer/durham-white-stout/161340/",
 		"style": "Pale Stout",
 		"abv": 7.2,
 		"brewery": "The Durham Brewery",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.5,
+				"comment": "Good flavour and strong alcohol taste. "
+			}]
 
 	}]
 }]
