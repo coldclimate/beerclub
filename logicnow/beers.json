@@ -376,4 +376,26 @@
 			}]
 
 	}]
+},
+{
+	"date": "2017-05-15",
+	"title": "A vote for the tories is a vote for a bleaker future",
+	"retailer": "https://championbottlesandtaps.co.uk/",
+	"participants": 6,
+	"beers": [{
+		"name": "Bloody ell",
+		"url": "http://www.beavertownbrewery.co.uk/beer/bloody-ell/",
+		"style": "Blood Orange IPA",
+		"abv": 7.2,
+		"brewery": "Beavertown",
+		"ratings": []
+	}, {
+		"name": "Promenadporter",
+		"url": "http://www.stigbergetsbryggeri.se/ol/promenadporter/",
+		"style": "Porter",
+		"abv": 5.5,
+		"brewery": "The Durham Brewery",
+		"ratings": []
+
+	}]
 }]
