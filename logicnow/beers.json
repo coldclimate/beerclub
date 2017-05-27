@@ -388,14 +388,22 @@
 		"style": "Blood Orange IPA",
 		"abv": 7.2,
 		"brewery": "Beavertown",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 2.25,
+				"comment": "The orange aftertaste is very good, like orange peel, but this is not the best IPA I've got. "
+			}]
 	}, {
 		"name": "Promenadporter",
 		"url": "http://www.stigbergetsbryggeri.se/ol/promenadporter/",
 		"style": "Porter",
 		"abv": 5.5,
 		"brewery": "The Durham Brewery",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.75,
+				"comment": "Not too strong and nice coffee flavour. "
+			}]
 
 	}]
 }]
