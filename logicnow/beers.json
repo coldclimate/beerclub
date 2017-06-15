@@ -406,4 +406,25 @@
 			}]
 
 	}]
+},{
+	"date": "2017-06-15",
+	"title": "Brew York Brew York, so good I bought it twice",
+	"retailer": "htt://www.blocknbottle.co.uk",
+	"participants": 8,
+	"beers": [{
+		"name": "X-Parrot",
+		"url": "https://untappd.com/b/brew-york-x-parrot-tropical-ipa/2103176",
+		"style": "IPA",
+		"abv": 6.5,
+		"brewery": "Brew York",
+		"ratings": []
+	}, {
+		"name": "Tonkoko",
+		"url": "http://brewyork.co.uk/beer/tonkoko/",
+		"style": "Milk Stout",
+		"abv": 4.3,
+		"brewery": "Brew York",
+		"ratings": []
+
+	}]
 }]
