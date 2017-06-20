@@ -417,14 +417,22 @@
 		"style": "IPA",
 		"abv": 6.5,
 		"brewery": "Brew York",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.75,
+				"comment": "Very refreshing and tasty. Not so sour. "
+			}]
 	}, {
 		"name": "Tonkoko",
 		"url": "http://brewyork.co.uk/beer/tonkoko/",
 		"style": "Milk Stout",
 		"abv": 4.3,
 		"brewery": "Brew York",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.00,
+				"comment": "The aftertaste is the best bit. I am sorry, but I cannot taste the coconut."
+			}]
 
 	}]
 }]
