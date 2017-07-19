@@ -454,7 +454,23 @@
 		"style": "Patersbier",
 		"abv": 4.2,
 		"brewery": "Unity Brewing Co",
-		"ratings": []
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 3.00,
+				"comment": "Wheaty but gassy. I could have this one with every meal."
+			}]
+
+	}, {
+		"name": "Peach of the Weekend",
+		"url": "",
+		"style": "Sour - Ale",
+		"abv": 5.6,
+		"brewery": "Wild Weather Ales",
+		"ratings": [{
+				"who": "pablosuau",
+				"rating": 2.25,
+				"comment": "Not the worst sour I ever had. Still not my cup of tea."
+			}]
 
 	}]
 }]
