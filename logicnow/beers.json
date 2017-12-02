@@ -473,4 +473,33 @@
 			}]
 
 	}]
+},
+{
+	"date": "2017-10-22",
+	"title": "Elements",
+	"retailer": "htt://www.blocknbottle.co.uk",
+	"participants": 6,
+	"beers": [{
+		"name": "Common Grounds",
+		"url": "https://untappd.com/b/magic-rock-brewing-common-grounds/1327084",
+		"style": "porter",
+		"abv": 5.4,
+		"brewery": "Magic Rock Brewing",
+		"ratings": [{
+			"who": "jamiefdhurst",
+			"rating": 3.50,
+			"comment": "Not normally a porter man, but this made an impact. Very pleasant and chocolately."
+		}]
+	}, {
+		"name": "Sky and Thunder",
+		"url": "https://untappd.com/b/box-social-brewing-sky-and-thunder/1253788",
+		"style": "sour",
+		"abv": 3.7,
+		"brewery": "Box Social Brewing",
+		"ratings": [{
+			"who": "jamiefdhurst",
+			"rating": 2.50,
+			"comment": "Light and tangy, but a bit too light on the flavour."
+		}]
+	}]
 }]
