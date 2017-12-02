@@ -477,7 +477,7 @@
 {
 	"date": "2017-10-22",
 	"title": "Elements",
-	"retailer": "htt://www.blocknbottle.co.uk",
+	"retailer": "http://www.blocknbottle.co.uk",
 	"participants": 6,
 	"beers": [{
 		"name": "Common Grounds",
@@ -501,5 +501,40 @@
 			"rating": 2.50,
 			"comment": "Light and tangy, but a bit too light on the flavour."
 		}]
+	}]
+},
+{
+	"date": "2017-12-01",
+	"title": "Black Friday Bonanza",
+	"retailer": "http://www.wildbeerco.com/",
+	"participants": 6,
+	"beers": [{
+		"name": "Bibble",
+		"url": "https://wildbeer.myshopify.com/collections/everyday-beer/products/bibble",
+		"style": "pale ale",
+		"abv": 4.2,
+		"brewery": "Wildbeer",
+		"ratings": []
+	},{
+		"name": "Fresh",
+		"url": "https://wildbeer.myshopify.com/collections/everyday-beer/products/fresh-can",
+		"style": "pale ale",
+		"abv": 5.5,
+		"brewery": "Wildbeer",
+		"ratings": []
+	},{
+		"name": "Pogo",
+		"url": "https://wildbeer.myshopify.com/collections/everyday-beer/products/pogo",
+		"style": "american pale ale",
+		"abv": 4.0,
+		"brewery": "Wildbeer",
+		"ratings": []
+	},{
+		"name": "Madness",
+		"url": "https://wildbeer.myshopify.com/collections/everyday-beer/products/madness-can",
+		"style": "indian pale ale",
+		"abv": 6.8,
+		"brewery": "Wildbeer",
+		"ratings": []
 	}]
 }]
